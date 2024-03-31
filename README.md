@@ -1,13 +1,13 @@
-# Welcome to my dynamic portfolio showcasing a diverse range of design projects and creative works. This project is built using React.js and TypeScript, with additional technologies such as Next.js, Tailwind CSS, and Framer Motion to enhance the user experience.
+** Welcome to my dynamic portfolio showcasing a diverse range of design projects and creative works. This project is built using React.js and TypeScript, with additional technologies such as Next.js, Tailwind CSS, and Framer Motion to enhance the user experience. **
 
-# Features:
+## Features:
 
 - Dynamic Showcase: Display a variety of design projects and creative works.
 - Responsive Design: Ensures optimal viewing experience across a wide range of devices.
 - Smooth Transitions: Utilizes Framer Motion for fluid animations and transitions.
 - Technologically Advanced: Built with modern frontend technologies including React.js, TypeScript, Next.js, Tailwind CSS, and Framer Motion.
 
-# Technologies:
+## Technologies:
 
 - React.js
 - TypeScript
@@ -16,6 +16,6 @@
 - Tailwind
 - Framer Motion
 
-# You Can See The App
+## You Can See The App
 
-https://ahmedfawzy.vercel.app/
+https://ahmedfawzy.vercel.app
