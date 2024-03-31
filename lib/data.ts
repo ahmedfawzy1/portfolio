@@ -70,7 +70,7 @@ export const projectsData = [
     description: "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
     tags: ["TypeScript", "React", "Next.js", "Tailwind", "Framer Motion"],
     imageUrl: portfolio,
-    projectUrl: "https://ahmed-fawzy.netlify.app",
+    projectUrl: "https://ahmedfawzy.vercel.app",
   },
   {
     title: "Game Reviews",
