@@ -1,4 +1,4 @@
-** Welcome to my dynamic portfolio showcasing a diverse range of design projects and creative works. This project is built using React.js and TypeScript, with additional technologies such as Next.js, Tailwind CSS, and Framer Motion to enhance the user experience. **
+**Welcome to my dynamic portfolio showcasing a diverse range of design projects and creative works. This project is built using React.js and TypeScript, with additional technologies such as Next.js, Tailwind CSS, and Framer Motion to enhance the user experience.**
 
 ## Features:
 
