@@ -82,7 +82,7 @@ export default function Intro() {
         </Link>
 
         <a
-          href="/AhmedFawzy-FrontendWebDeveloper.pdf"
+          href="/Ahmed Fawzy - Frontend Web Developer.pdf"
           download
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none hover:scale-105 focus:scale-105 active:scale-105 transition borderBlack dark:bg-white/10"
         >
