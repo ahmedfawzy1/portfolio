@@ -4,6 +4,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import freshcart from "@/public/freshcart.png";
 import portfolio from "@/public/portfolio.png";
 import GameReviews from "@/public/GameReviews.png";
+import NoteApp from "@/public/NoteApp.png";
 
 export const links = [
   {
@@ -61,7 +62,7 @@ export const projectsData = [
   {
     title: "Fresh Cart",
     description: "Developed and launched Fresh Cart a feature-rich e-commerce platform catering to diverse market needs.",
-    tags: ["HTML", "CSS", "JavaScript", "BootStrap", "React", "Next.js"],
+    tags: ["HTML", "CSS", "JavaScript", "BootStrap", "JSON", "React"],
     imageUrl: freshcart,
     projectUrl: "https://freshcartapp.netlify.app",
   },
@@ -71,6 +72,13 @@ export const projectsData = [
     tags: ["TypeScript", "React", "Next.js", "Tailwind", "Framer Motion"],
     imageUrl: portfolio,
     projectUrl: "https://ahmedfawzy.vercel.app",
+  },
+  {
+    title: "Note App",
+    description: "The Note App is an efficient application that allows users to create, organize, and manage their notes effortlessly.",
+    tags: ["HTML", "CSS", "JavaScript", "BootStrap", "JSON", "React"],
+    imageUrl: NoteApp,
+    projectUrl: "https://gamereviewss.netlify.app",
   },
   {
     title: "Game Reviews",
