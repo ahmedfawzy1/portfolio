@@ -36,11 +36,19 @@ export const links = [
 export const experiencesData = [
   {
     title: "Front-End Developer",
+    location: "BloxBoom, Remote",
+    description:
+      "As a frontend web developer, I specialize in using React, Next.js, Tailwind CSS, and Framer Motion to create dynamic and engaging user interfaces.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2024 - present",
+  },
+  {
+    title: "Front-End Developer",
     location: "Freelancer",
     description:
-      "I'm now a Front-End developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind. I'm open to full-time opportunities.",
+      "I'm a Front-End developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind. I'm open to full-time opportunities.",
     icon: React.createElement(CgWorkAlt),
-    date: "2023 - present",
+    date: "2023 - 2024",
   },
   {
     title: "Front-End Developer Intern",
