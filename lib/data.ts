@@ -1,10 +1,10 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { LuGraduationCap } from "react-icons/lu";
-import freshcart from "@/public/freshcart.png";
-import portfolio from "@/public/portfolio.png";
 import GameReviews from "@/public/GameReviews.png";
-import NoteApp from "@/public/NoteApp.png";
+import portfolio from "@/public/portfolio.png";
+import freshcart from "@/public/freshcart.png";
+import bloxboom from "@/public/bloxboom.png";
 
 export const links = [
   {
@@ -68,6 +68,13 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "BloxBoom",
+    description: "Development and launch of a top-tier e-commerce platform designed for selling video game items.",
+    tags: ["TypeScript", "React", "Next.js", "Tailwind", "Framer Motion"],
+    imageUrl: bloxboom,
+    projectUrl: "https://bloxboom.com",
+  },
+  {
     title: "Fresh Cart",
     description: "Developed and launched Fresh Cart a feature-rich e-commerce platform catering to diverse market needs.",
     tags: ["HTML", "CSS", "JavaScript", "BootStrap", "JSON", "React"],
@@ -80,13 +87,6 @@ export const projectsData = [
     tags: ["TypeScript", "React", "Next.js", "Tailwind", "Framer Motion"],
     imageUrl: portfolio,
     projectUrl: "https://ahmedfawzy.vercel.app",
-  },
-  {
-    title: "Note App",
-    description: "The Note App is an efficient application that allows users to create, organize, and manage their notes effortlessly.",
-    tags: ["HTML", "CSS", "JavaScript", "BootStrap", "JSON", "React"],
-    imageUrl: NoteApp,
-    projectUrl: "https://gamereviewss.netlify.app",
   },
   {
     title: "Game Reviews",
