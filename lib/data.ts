@@ -1,10 +1,12 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { LuGraduationCap } from "react-icons/lu";
-import GameReviews from "@/public/GameReviews.png";
+import levoire from "@/public/levoire.png";
+import bloxboom from "@/public/bloxboom.png";
 import portfolio from "@/public/portfolio.png";
 import freshcart from "@/public/freshcart.png";
-import bloxboom from "@/public/bloxboom.png";
+import dashmaster from "@/public/dashmaster.png";
+import GameReviews from "@/public/GameReviews.png";
 
 export const links = [
   {
@@ -68,6 +70,15 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "Levoire",
+    description:
+      "Developed an innovative e-commerce platform with seamless shopping, real-time cart updates, secure authentication, and a comprehensive admin dashboard.",
+    tags: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Prisma"],
+    imageUrl: levoire,
+    projectUrl: "https://levoire.shop",
+  },
+
+  {
     title: "BloxBoom",
     description: "Development and launch of a top-tier e-commerce platform designed for selling video game items.",
     tags: ["TypeScript", "React", "Next.js", "Tailwind", "Framer Motion"],
@@ -87,6 +98,13 @@ export const projectsData = [
     tags: ["TypeScript", "React", "Next.js", "Tailwind", "Framer Motion"],
     imageUrl: portfolio,
     projectUrl: "https://ahmedfawzy.vercel.app",
+  },
+  {
+    title: "Dashmaster",
+    description: "A comprehensive and intuitive admin dashboard for managing all your business operations efficiently.",
+    tags: ["React", "Material-UI", "Tailwind", "Chart.js"],
+    imageUrl: dashmaster,
+    projectUrl: "https://dashmaster-2e21c.web.app",
   },
   {
     title: "Game Reviews",
